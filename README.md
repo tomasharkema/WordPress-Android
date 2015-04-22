@@ -14,7 +14,7 @@ local.properties (replace YOUR_SDK_DIR with your actual android SDK directory)
 file and create the gradle.properties file. The easiest way is to copy
 our example:
 
-    $ echo "sdk.dir=YOUR_SDK_DIR" > local.properties
+    $ echo "sdk.dir=/usr/local/opt/android-platform-tools/bin" > local.properties
     $ cp ./WordPress/gradle.properties-example ./WordPress/gradle.properties
 
 Note: this is the default `./WordPress/gradle.properties` file. If you

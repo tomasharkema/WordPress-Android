@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/WordPress" />
+            <option value="$PROJECT_DIR$/libs" />
+            <option value="$PROJECT_DIR$/libs/analytics" />
+            <option value="$PROJECT_DIR$/libs/analytics/WordPressAnalytics" />
+            <option value="$PROJECT_DIR$/libs/editor" />
+            <option value="$PROJECT_DIR$/libs/editor/WordPressEditor" />
+            <option value="$PROJECT_DIR$/libs/graphview" />
+            <option value="$PROJECT_DIR$/libs/graphview/WordPressGraphView" />
+            <option value="$PROJECT_DIR$/libs/networking" />
+            <option value="$PROJECT_DIR$/libs/networking/WordPressNetworking" />
+            <option value="$PROJECT_DIR$/libs/persistentedittext" />
+            <option value="$PROJECT_DIR$/libs/persistentedittext/PersistentEditText" />
+            <option value="$PROJECT_DIR$/libs/utils" />
+            <option value="$PROJECT_DIR$/libs/utils/WordPressUtils" />
+            <option value="$PROJECT_DIR$/libs/wpcomrest" />
+            <option value="$PROJECT_DIR$/libs/wpcomrest/WordPressComRest" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/libs/persistentedittext/PersistentEditText/PersistentEditText.iml" filepath="$PROJECT_DIR$/libs/persistentedittext/PersistentEditText/PersistentEditText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordPress/WordPress.iml" filepath="$PROJECT_DIR$/WordPress/WordPress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordPress-Android.iml" filepath="$PROJECT_DIR$/WordPress-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/analytics/WordPressAnalytics/WordPressAnalytics.iml" filepath="$PROJECT_DIR$/libs/analytics/WordPressAnalytics/WordPressAnalytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/wpcomrest/WordPressComRest/WordPressComRest.iml" filepath="$PROJECT_DIR$/libs/wpcomrest/WordPressComRest/WordPressComRest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/editor/WordPressEditor/WordPressEditor.iml" filepath="$PROJECT_DIR$/libs/editor/WordPressEditor/WordPressEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/graphview/WordPressGraphView/WordPressGraphView.iml" filepath="$PROJECT_DIR$/libs/graphview/WordPressGraphView/WordPressGraphView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/networking/WordPressNetworking/WordPressNetworking.iml" filepath="$PROJECT_DIR$/libs/networking/WordPressNetworking/WordPressNetworking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/utils/WordPressUtils/WordPressUtils.iml" filepath="$PROJECT_DIR$/libs/utils/WordPressUtils/WordPressUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/analytics/analytics.iml" filepath="$PROJECT_DIR$/libs/analytics/analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/editor/editor.iml" filepath="$PROJECT_DIR$/libs/editor/editor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/graphview/graphview.iml" filepath="$PROJECT_DIR$/libs/graphview/graphview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/libs.iml" filepath="$PROJECT_DIR$/libs/libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/networking/networking.iml" filepath="$PROJECT_DIR$/libs/networking/networking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/persistentedittext/persistentedittext.iml" filepath="$PROJECT_DIR$/libs/persistentedittext/persistentedittext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/utils/utils.iml" filepath="$PROJECT_DIR$/libs/utils/utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/wpcomrest/wpcomrest.iml" filepath="$PROJECT_DIR$/libs/wpcomrest/wpcomrest.iml" />
+    </modules>
+  </component>
+</project>
+
